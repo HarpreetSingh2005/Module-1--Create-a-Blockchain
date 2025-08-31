@@ -71,7 +71,7 @@ GET http://127.0.0.1:5000/mine_block
 
 - SHA-256 Hashing
 
-Consensus: Proof of Work
+- Consensus: Proof of Work
 
 ---
 
