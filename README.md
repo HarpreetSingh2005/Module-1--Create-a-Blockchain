@@ -3,7 +3,9 @@
 This is my first blockchain project from the **Blockchain A-Z course**.
 It’s a minimal blockchain built in Python with a simple **Proof of Work** and exposed as a **Flask API**.
 
+
 ---
+
 
 ## Features
 
@@ -15,7 +17,9 @@ It’s a minimal blockchain built in Python with a simple **Proof of Work** and 
 
 -Flask-based REST API
 
+
 ---
+
 
 ⚡ Installation & Usage
 ```bash
@@ -28,6 +32,7 @@ pip install -r requirements.txt
 # Run app
 python app.py
 ```
+---
 
 ## API Endpoints
 
@@ -56,6 +61,8 @@ GET http://127.0.0.1:5000/mine_block
   "previous hash": "003abc..."
 }
 
+---
+
 ## Tech Stack
 
 - Python 3.x
@@ -66,6 +73,10 @@ GET http://127.0.0.1:5000/mine_block
 
 Consensus: Proof of Work
 
+---
+
 ## 🙌 Acknowledgment
 
 Inspired by the **Blockchain A-Z course**
+
+---
