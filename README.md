@@ -9,13 +9,13 @@ It’s a minimal blockchain built in Python with a simple **Proof of Work** and 
 
 ## Features
 
--Create a blockchain
+- Create a blockchain
 
--Mine new blocks
+- Mine new blocks
 
--Validate the chain
+- Validate the chain
 
--Flask-based REST API
+- Flask-based REST API
 
 
 ---
